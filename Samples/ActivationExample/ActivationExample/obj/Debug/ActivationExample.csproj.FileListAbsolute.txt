@@ -1,0 +1,12 @@
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\bin\Debug\ActivationExample.exe.config
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\obj\Debug\ActivationExample.csprojResolveAssemblyReference.cache
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\obj\Debug\ActivationExample.AboutForm.resources
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\obj\Debug\ActivationExample.ActivationForm.resources
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\obj\Debug\ActivationExample.MainForm.resources
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\obj\Debug\ActivationExample.Properties.Resources.resources
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\obj\Debug\ActivationExample.csproj.GenerateResource.Cache
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\bin\Debug\ActivationExample.exe
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\bin\Debug\ActivationExample.pdb
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\bin\Debug\LicenseSpot.Framework.dll
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\obj\Debug\ActivationExample.exe
+c:\users\jleon\documents\visual studio 2013\Projects\ActivationExample\ActivationExample\obj\Debug\ActivationExample.pdb
