@@ -1,0 +1,15 @@
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\bin\Debug\SubscriptionExample.exe.config
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\bin\Debug\SubscriptionExample.exe
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\bin\Debug\SubscriptionExample.pdb
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\bin\Debug\LicenseSpot.Framework.dll
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\obj\Debug\SubscriptionExample.csprojResolveAssemblyReference.cache
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\obj\Debug\SubscriptionExample.AboutForm.resources
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\obj\Debug\SubscriptionExample.ActivationForm.resources
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\obj\Debug\SubscriptionExample.MainForm.resources
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\obj\Debug\SubscriptionExample.Properties.Resources.resources
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\obj\Debug\SubscriptionExample.csproj.GenerateResource.Cache
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\obj\Debug\SubscriptionExample.exe
+c:\users\jleon\documents\visual studio 2013\Projects\SubscriptionExample\SubscriptionExample\obj\Debug\SubscriptionExample.pdb
+C:\Samples\SubscriptionExample\SubscriptionExample\bin\Debug\SubscriptionExample.exe.config
+C:\Samples\SubscriptionExample\SubscriptionExample\obj\Debug\SubscriptionExample.exe
+C:\Samples\SubscriptionExample\SubscriptionExample\obj\Debug\SubscriptionExample.pdb
